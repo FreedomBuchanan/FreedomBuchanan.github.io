@@ -1,20 +1,39 @@
 *
 {
-  font-family: Calibri, sans-serif;
+    font-family: Calibri, sans-serif;
 }
 
 body
 {
-  background-color : azure;
+    background-color : azure;
 }
 
-h1, h2, h3, h4
+.block  //For all elements of the block class
 {
-  color : darkslategray;
-  font-weight: 200;
-}
+    h1, h2, h3, h4
+    {
+        font-weight: 200;
+        font-size: 64px
+        color: darkslategray;
+    }
 
-p
-{
-  color : darkslategray;
+    p
+    {
+        font-size: 16px
+        color: darkslategray;
+    }
+    
+    .intro
+    {
+        background-color : cadetblue;
+        h1
+        {
+            color: darkslategray;
+        }
+
+        p
+        {
+            color: darkslategray;
+        }
+    }
 }
