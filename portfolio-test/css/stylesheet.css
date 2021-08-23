@@ -13,14 +13,14 @@ body
     color: cadetblue;
 }
 
-h.block.intro
+h > block.intro
 {
     font-weight: 200;
     font-size: 64px;
     color: darkslategray;
 }
 
-p.block.intro
+p > block.intro
 {
     font-size: 16px;
     color: darkslategray;
