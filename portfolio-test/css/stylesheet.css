@@ -8,20 +8,16 @@ body
     background-color : azure;
 }
 
-.block .intro  /*For all elements of the block class*/
+.block .intro
 {
     background-color: cadetblue;
-    
-    h1, h2, h3, h4
-    {
-        font-weight: 200;
-        font-size: 64px;
-        color: darkslategray;
-    }
-
-    p
-    {
-        font-size: 16px;
-        color: darkslategray;
-    }
 }
+
+.block .intro .header
+{
+    font-weight: 200;
+    font-size: 64px;
+    color: darkslategray;
+}
+
+.block .intro .par
