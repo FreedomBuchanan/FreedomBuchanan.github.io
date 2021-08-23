@@ -8,7 +8,7 @@ body
     background-color : azure;
 }
 
-.block  //For all elements of the block class
+.block  /*For all elements of the block class*/
 {
     h1, h2, h3, h4
     {
