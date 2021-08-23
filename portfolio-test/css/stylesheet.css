@@ -6,7 +6,7 @@ body
 
 .block.intro
 {
-    color: cadetblue;
+    background-color: cadetblue;
 }
 
 .block.intro > h1
