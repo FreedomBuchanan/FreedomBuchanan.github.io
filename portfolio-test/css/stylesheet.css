@@ -23,6 +23,9 @@ body
 
 .block.intro > h1
 {
+    margin: 0;
+    padding: 0;
+    
     font-weight: 200;
     font-size: 96px;
     color: darkslategray;
