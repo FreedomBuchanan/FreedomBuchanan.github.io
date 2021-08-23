@@ -10,7 +10,7 @@ body
 
 .block .intro  /*For all elements of the block class*/
 {
-    background_color: cadetblue;
+    background-color: cadetblue;
     
     h1, h2, h3, h4
     {
