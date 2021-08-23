@@ -5,7 +5,7 @@
 
 body
 {
-    background-color : azure;
+    background-color: azure;
 }
 
 .block .intro
@@ -21,3 +21,7 @@ body
 }
 
 .block .intro .par
+{
+    font-size: 16px;
+    color: darkslategray;
+}
