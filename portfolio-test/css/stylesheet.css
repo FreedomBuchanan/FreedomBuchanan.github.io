@@ -1,0 +1,20 @@
+*
+{
+  font-family: Calibri, sans-serif;
+}
+
+body
+{
+  background-color : azure;
+}
+
+h1, h2, h3, h4
+{
+  color : darkslategray;
+  font-weight: 200;
+}
+
+p
+{
+  color : darkslategray;
+}
