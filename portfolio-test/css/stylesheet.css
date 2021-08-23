@@ -13,7 +13,7 @@ body
     color: cadetblue;
 }
 
-h > block.intro
+h1 > block.intro
 {
     font-weight: 200;
     font-size: 64px;
