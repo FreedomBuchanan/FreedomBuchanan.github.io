@@ -3,6 +3,11 @@ body
   background-color : azure
 }
 
+header
+{
+  color : darkslategray
+}
+
 p
 {
   color : dimgray
