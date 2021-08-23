@@ -12,13 +12,13 @@ body
 .block.intro > h1
 {
     font-weight: 200;
-    font-size: 64px;
+    font-size: 96px;
     color: darkslategray;
 }
 
 .block.intro > p
 {
-    font-size: 16px;
+    font-size: 24px;
     color: darkslategray;
 }
 
