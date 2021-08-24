@@ -7,10 +7,10 @@ html
 body
 {
     margin: 0;
-    padding: 50px;
     
     background-color: azure;
     font-family: Calibri, sans-serif;
+    text-indent: 50px
 }
 
 .block.intro
