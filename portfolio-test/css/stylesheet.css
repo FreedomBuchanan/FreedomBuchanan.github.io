@@ -16,7 +16,7 @@ body
 .block.intro
 {
     margin: 0;
-    padding: 0;
+    padding-top: 50;
     
     background-color: cadetblue;
 }
