@@ -13,7 +13,7 @@ body
     text-indent: 50px
 }
 
-.block.intro
+header
 {
     margin: 0;
     padding-top: 36px;
@@ -22,7 +22,7 @@ body
     background-color: cadetblue;
 }
 
-.block.intro > h1
+header > h1
 {
     margin: 0px;
     
@@ -31,7 +31,7 @@ body
     color: darkslategray;
 }
 
-.block.intro > p
+header > p
 {
     margin: 0px;
     
